@@ -1,6 +1,6 @@
-# AYSHA DENTAL CARE
+# KASHISH DENTAL CARE MASTER
 
-Website Live Preview [AYSHA DENTAL CARE](https://aysha-dental-care.web.app/).
+Website Live Preview 
 
 ## Website Summery
 
